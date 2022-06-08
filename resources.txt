@@ -1,0 +1,13 @@
+https://www.geeksforgeeks.org/displaying-the-coordinates-of-the-points-clicked-on-the-image-using-python-opencv/
+
+https://dev-akash.github.io/posts/how-to-listen-mouse-events-in-opencv.html
+
+https://www.geeksforgeeks.org/python-opencv-namedwindow-function/
+
+https://www.geeksforgeeks.org/python-opencv-cv2-rectangle-method/
+
+https://stackoverflow.com/questions/138250/how-to-read-the-rgb-value-of-a-given-pixel-in-python
+
+https://www.geeksforgeeks.org/python-opencv-cv2-puttext-method/
+
+https://www.geeksforgeeks.org/python-opencv-cv2-imshow-method/
